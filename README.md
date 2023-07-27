@@ -17,3 +17,5 @@ Recreate an instagram feed layout
 Something to do with grid
 
 Something to do with flexbox
+
+Create a menu that responsively collapses into a hamburger button
