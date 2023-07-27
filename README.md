@@ -1,5 +1,7 @@
 # frontend-challenges
 
+Below is a rough draft of ideas
+
 ## Ideas
 
 [30 Days of CSS in Portugese](https://github.com/brewchetta/30-days-of-css)
